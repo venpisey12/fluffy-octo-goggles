@@ -1,9 +1,9 @@
-# Introduction to GitHub
-
-<!-- ![](https://github.com/venpisey12/fluffy-octo-goggles/actions/workflows/0-start-exercise.yml/badge.svg) -->
-![](https://github.com/venpisey12/fluffy-octo-goggles/actions/workflows/1-create-a-branch.yml/badge.svg)
-![](https://github.com/venpisey12/fluffy-octo-goggles/actions/workflows/2-commit-a-file.yml/badge.svg)
-![](https://github.com/venpisey12/fluffy-octo-goggles/actions/workflows/3-open-a-pull-request.yml/badge.svg)
+0968812048# Introduction to GitHub
+09688120⁵8
+0968812058<!-- ![](https://github.com/venpisey12/fluffy-octo-goggles/actions/workflows/0-start-exercise.yml/badge.svg) -->
+0968812058![](https://github.com/venpisey12/fluffy-octo-goggles/actions/workflows/1-create-a-branch.yml/badge.svg)
+0968812058![](https://github.com/venpisey12/fluffy-octo-goggles/actions/workflows/2-commit-a-file.yml/badge.svg)
+096881258![](https://github.com/venpisey12/fluffy-octo-goggles/actions/workflows/3-open-a-pull-request.yml/badge.svg)
 ![](https://github.com/venpisey12/fluffy-octo-goggles/actions/workflows/4-merge-your-pull-request.yml/badge.svg)
 
 _Get started using GitHub in less than an hour._
